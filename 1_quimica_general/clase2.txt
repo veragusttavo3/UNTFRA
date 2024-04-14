@@ -1,0 +1,140 @@
+3/04/2024
+decantacion: ampolla de decantacion, se pone los dos liquidis ahi y al agitar con el tiempo se separa, el mas denso queda abajo y el otro arriba.
+
+1.1 buscar correspondencia
+
+1 sustacia pura c)
+2 compuesto e)
+3 d)
+4 g)
+5 f)
+6 b)
+7 a?
+
+
+1.8 agua salada es homogeneo pero se tiene que separar por destilacion.
+
+1.20 composicion gSust/100g muestra , agua,sal,hierro
+100g--10g sal
+93g--9,3g sal?
+hierro 16,59%
+
+135g muestra ---22,4gfe
+100gm muestra ---x=
+
+mezcla azeotropica (homogeneo): alcohol y agua (sustancia pura) punto de ebullicion constante. etanol pEb 78c y agua pEb = 100c 
+
+energia no se elimina, sino que se transforma.
+
+homogeneo:
+heterogeneo: 
+entropia:
+
+
+capitulo 2------Estructura atómica
+
+cronograma no fue subido por falta de confirmacion del laboratorio.hasta fines de abril :P
+
+que son los atomos?
+democrito y leucipo en el siglo 5 a.c (atomos: indivisible)
+
+Dalton 1808 (atomo: la unidad basica de un elemento que puede intervenir en una reaccion quimica.) teoria.
+
+atomisidadad de cada elemento, con numeros enteros.
+
+sal de cosina : oinica
+
+modelo de Thomson: algo masivo y positiva de forma esferica, con semillas.
+
+rutherford: pasan 100 añod de dalton y el crea experimento en emisor de particulas, cual se lo llamo al nucleo centrada como atomo positivo. mayor masa.
+
+la masa del p es 1840 x masa del electron(
+
+radio atomico ~100pm = 1x 10(-10)m 
+
+radio nuclear ~5 x 10(-3) pm= 5 x 10 (-15)m
+
+"la fuerza electroestatica es igual a la centrifuga, Debe haber algo mas, sino el electron caeria.."
+
+particula   masa en g               carga en c
+electron	9,10 x 10(-28)		-1,60x 10(-19)    1
+proton 		1,67 x 10(-24)		+1,60 x 10(-19)  +1
+neutron 	1,67 x 10(-24)	         	0         0
+
+masa de p = masa de n = 1840 x mASA DE e(-)
+
+
+
+
+Bord: establece por donde circulan los electrones por orbitas o niveles de energia alrededor del nucleo.
+cada electron que se mueva de una orbita a otr debe de transformar o absorver energia, un cuanto de energia. tienen menos energia losque estan cerca del nucleo.
+
+
+tabla periodica-
+
+Z->numero atomico nro. protones en el nucleo
+A->numero de masa. nro de protones + nro de neutrones
+nucleo= nro atomico + nro de neutrones.
+
+los ISOTOPOPS son atomos del mismo Elemento(x) con diferencia de numero de neutroned en su nucleo.
+
+A
+  X <---simbolo del elemento.
+Z
+ 
+ nucleidos: grupos de atomos de un mismo elemento.
+ proton = electrones ei el atomo es neutro.
+ 
+ 
+postulados de dalton
+-atomos extremadamente pequeños (elementos)
+-atomos no se convierten ni se destruyen en reacciones quimicas.
+
+"ley de conservacion d ela masa de Lavoiser"
+
+1897 descubrimiento del electron thompson.
+1019		||	
+1932 		||	NEUTRONES POR JAMES CHADWICK
+
+radioactividad:rutherford 
+-particulas alfa (nucleos de helio con carga 2+)
+-particulas beta (electrones)
+-rayos y (emision de energia...)
+
+(espectrometro de masa)
+
+la masa del electron es tan pequeña que se desprecia.
+los protones y los neutrones tienen esencialmente la misma masa.
+los protones y los electrones son las unicas particulas que tiennen una carga.
+
+
+
+MOLECULA : un conjunto de dos o mas atomos unidos por fuerza de atraccion electroestatica.
+
+una molecula diatomica continene dos atomos. f(2)
+
+una molecula poliatomica contiene mas de dos atomosf(4)
+
+
+
+iones : cationes+ y aniones-
+
+un ion es un atomo o grupo de atomos que tiene una carga neta positiva o negativa.
+
+CATION+ es un ion con carga positiva, si un atomo neutro cede uno o mas electrones se convierte en un cation.
+
+ANION- es un ion gano electrones.
+
+ion monoatomico: contiene un solo atomo.
+
+ion poliatomico: ion hidroxido, hidroxilo en organica
+
+esado basal es neutro.
+
+metales de transicion :g2 a g12
+
+
+realizar el cuadro y todo lo anterior.
+actividad 1
+
+B,5,5
