@@ -1,0 +1,25 @@
+// Ingresar 3 valores enteros, hallar su promedio y mostrarlo
+
+#include <stdio.h>
+
+main(){
+	float a;
+	float b;
+	float c;
+	
+	float promedio;
+	
+	scanf("%f", &a);
+	fflush(stdin);
+	scanf("%f", &b);
+	fflush(stdin);
+	scanf("%f", &c);
+	fflush(stdin);
+	
+	promedio = (a + b + c) / 3;
+	
+	printf("El promedio es: %.2f\n", promedio);
+	
+
+	
+}

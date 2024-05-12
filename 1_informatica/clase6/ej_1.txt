@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+main(){
+	char nombre[20];
+	unsigned char sexo;
+	int edad;
+	float mes_actual;
+	float porcentaje; //segunda opcion => double
+	double decimal;
+	
+	scanf("%s", nombre);
+	fflush(stdin);
+	scanf("%c", &sexo);
+	fflush(stdin);
+	scanf("%d", &edad);
+	fflush(stdin);
+	scanf("%f", &mes_actual);
+	fflush(stdin);
+	
+	porcentaje = (mes_actual / 12) * 100;
+	
+	printf("El nombre es: %s\n", nombre);
+	printf("El sexo es: %c\n", sexo);
+	printf("Tiene %d a�os\n", edad);
+	printf("El porcentaje es: %.3f\n", porcentaje);
+
+}
